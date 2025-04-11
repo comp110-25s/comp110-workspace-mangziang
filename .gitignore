@@ -1,6 +1,0 @@
-__pycache__
-.git
-.pytest_cache
-.mypy_cache
-**.zip
-**.DS_Store
